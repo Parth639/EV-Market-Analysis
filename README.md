@@ -1,4 +1,4 @@
-# ⚡ EV Market Dashboard (India)
+# ⚡ EV Market Analysis (India)
 
 This repository contains an end-to-end data visualization project analyzing the Electric Vehicle (EV) market in India from 2022 to 2024. The dashboards are created using **Power BI** and are aimed at supporting market expansion decisions.
 
